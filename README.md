@@ -156,5 +156,3 @@ Sales and customer transaction dataset containing:
 
 ## Author
 **Chandran**
-
-Turning messy sales data into business decisions instead of decorative charts nobody reads.
