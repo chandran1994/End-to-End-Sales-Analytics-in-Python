@@ -12,7 +12,7 @@ Through exploratory data analysis, the project investigates how customer demogra
 
 ## Dataset
 
-The dataset contains customer transaction information including -
+The dataset contains customer transaction information including :
 
 ```text id="9lbv5j"
 Customer Demographics
