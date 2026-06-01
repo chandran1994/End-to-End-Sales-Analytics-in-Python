@@ -255,4 +255,4 @@ Prioritize inventory investment and promotional activity around high-performing 
 
 ## Business Value
 
-This project demonstrates how sales analytics can be used to transform transactional data into actionable business insights.
+This project demonstrates how sales analytics can be used to transform transactional data into actionable business insights
